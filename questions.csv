@@ -1,0 +1,10 @@
+isScreen,isOptional,type,min,max,text,default
+false,false,0,0,45,"What is your first name?",""
+false,false,0,0,45,"What is your last name?",""
+false,false,5,1,120,"What is your age?",0
+false,false,10,1000000000,9999999999,"What is your phone number?",0
+false,true,0,0,255,"What is your email address (optional)?","Not Set"
+true,false,2,0,0,"Do you have any of the symptons that are not caused by another condition?",""
+true,false,2,0,0,"Within the past 14 days, have you been in close contact with anyone that you know had COVID-19 or COVID-like symptoms? Close contact is being within 6 feet for 15 minutes or more over a 24-hour period with a person; or having direct contact with fluids from a person with COVID-19 with or without wearing a mask (i.e., being coughed or sneezed on).",""
+true,false,2,0,0,"Have you had a positive COVID-19 test for active virus in the past 10 days, or are you awaiting results of a COVID-19 test?",""
+true,false,2,0,0,"Within the past 14 days, has a public health or medical professional told you to self-monitor, self-isolate, or self-quarantine beacuse of concerns about COVID-19 infection?",""
